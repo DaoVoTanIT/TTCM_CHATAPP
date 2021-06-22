@@ -13,8 +13,8 @@ CHAT APP VỚI FLUTTER
 
 	
            Sinh viên thực hiện	:  VÕ TẤN ĐÀO
-           Mã sinh viên           	:  5951071011
-           Lớp	:  CQ.59.CNTT
+           Mã sinh viên         :  5951071011
+           Lớp			:  CQ.59.CNTT
            Giảng viên hướng dẫn	:  ThS. TRẦN PHONG NHÃ
 
 
