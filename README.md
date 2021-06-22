@@ -28,8 +28,6 @@ TP Hồ Chí Minh, năm 2021
 
 
 
-
-
 HƯỚNG DẪN CÀI ĐẶT FLUTTER ĐỂ CHẠY PROJECT
 Bước 1: Truy cập địa chỉ https://flutter.dev/docs/get-started/install/windows và
 tải phiên bản mới nhất của Flutter SDK.
@@ -46,4 +44,6 @@ Bước 9: Cài đặt plugin Flutter và Dart cho Android Studio. Hai plugin n�
 	2. Chọn File → Settings → Plugins.
 	3. Tìm kiếm Flutter plugin và click vào Install.
 	4. Chọn Yes khi hệ thống yêu cầu cài đặt Dart plugin.
-	5. Khởi động lại Android studio.
+	5. Khởi động lại Android studio/Visual Studio Code.
+
+
