@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706908171147",
+    "project_id": "chat-app-ttcm",
+    "storage_bucket": "chat-app-ttcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706908171147:android:2bc5403fd264448ec71d8e",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706908171147-idpprgsku5ucgs21ttlfonue1n98v5fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEiun1BRI85Af6CQ8zrXpH1abeSvx8_BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706908171147-idpprgsku5ucgs21ttlfonue1n98v5fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
